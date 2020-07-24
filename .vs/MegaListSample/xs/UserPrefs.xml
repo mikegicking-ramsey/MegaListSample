@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{13B56013-13DC-49CD-B5BF-0FCF1E7CCA80}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MegaListSample/Views/MainPage.xaml" Line="21" Column="31" />
+      <File FileName="MegaListSample/Views/Collection.xaml" Line="7" Column="49" />
+      <File FileName="MegaListSample/Views/Collection.xaml.cs" Line="18" Column="1" />
+      <File FileName="MegaListSample/Views/List.xaml" Line="4" Column="39" />
+      <File FileName="MegaListSample/Views/List.xaml.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MegaListSample" expanded="True">
+            <Node name="MegaListSample" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True" />
+                <Node name="Collection.xaml" expanded="True">
+                  <Node name="Collection.xaml.cs" selected="True" />
+                </Node>
+                <Node name="List.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MegaListSample.Android PreferredExecutionTarget="Android.Pixel_3a_XL_Android_9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MegaListSample.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MegaListSample.iOS FirstBuild="True" />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3scl/dUM1xx8/HU94C2R0jyOK7qn6VbkAIV3DRAn8P65MsyELe0z5PtTrjiOEQKUVVP+P8+bIxFRDcBCgJ4dwg==",
+  "success": true,
+  "projectFilePath": "/Users/mike.gicking/Projects/MegaListSample/MegaListSample.UITests/MegaListSample.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/mike.gicking/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/mike.gicking/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
